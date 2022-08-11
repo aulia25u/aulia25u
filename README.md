@@ -16,9 +16,5 @@
 ## **CODING STATS**
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=aulia25u&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-</p>
-
-## **STREAK STATS**
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=aulia25u&theme=gotham&hide_border=true'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=aulia25u&theme=gotham&hide_border=true'/>
 </p>
