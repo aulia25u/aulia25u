@@ -9,10 +9,16 @@
 [![VMWARE](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)](#)
 
 ## **Contact & STATS**
+<style>
+.vl {
+  border-left: 6px solid white;
+  height: 500px;
+}
+</style>
 <p align = 'center'>
-    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
-    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
+    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/><br>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/><br>
+    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/><br>
     <vl>
     <img src='https://github-readme-stats.vercel.app/api?username=aulia25u&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
 </p>
